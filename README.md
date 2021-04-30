@@ -1,6 +1,7 @@
 # PS4_HC05
 Allows PS4 controller to communicate with an HC05 bluetooth chip using serial.write().<br />
-Working code is in Master
+Working code is in Master branch
+
 
 # Directions
 DO NOT ```cat -v /dev/YourChip``` as you would have previously done to connect to the HC05. <br />
