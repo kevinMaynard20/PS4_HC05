@@ -1,6 +1,6 @@
 # PS4_HC05
 Provides connectivity to Arduino control boards via HC-05 bluetooth board through a controller.  <br />
-
+XBOX VERSION IS IN XBOX_VERSIONS BRANCH AND PS4 VERSION IS IN PS4_VERSIONS !! <br />
 ## Components and Specs
 
 ### Required Parts
